@@ -1,0 +1,21 @@
+div.post-desc{
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1em;
+    color: #252633;
+    font-weight: 700
+}
+
+a.post-header{
+    font-family: 'Catamaran', sans-serif;
+    color:green
+}
+
+h4.recent-post-link{
+    font-family: 'Catamaran', sans-serif;
+    color:blue;
+    font-size: 13px;
+    text-transform: initial;
+    letter-spacing: 0;
+    line-height: 20px;
+    font-weight: 600;
+}
